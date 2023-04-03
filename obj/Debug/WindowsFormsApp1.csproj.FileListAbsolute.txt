@@ -1,0 +1,14 @@
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sign_in.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrivateForm.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ГлавнаяФорма.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GroupForm.resources
+C:\Users\79248\Desktop\Учеба КИТ\3 курс\ПП 3 курс\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormDataGridView.resources
